@@ -8,7 +8,7 @@ name: "tutorial"
 author: "cmdc22"
 
 #the fully qualified main class of the mod
-main: "main.tutorial.TutorialMod"
+main: "src.tutorial.TutorialMod"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
